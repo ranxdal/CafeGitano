@@ -25,3 +25,11 @@ section {
     padding: 15px 20px;
     border-radius: 8px;
 }
+
+#promociones {
+    border: 2px dashed #d35400;
+    background-color: #fff3e0;
+}
+#promociones h2 {
+    color: #d35400;
+}
